@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science and software engineering!
 - 🌱 I’m ready for a graduate-level program in Computer Sciecne! Please check my repositories!
 - 💞️ I’m applying for a master degree program in Computer Sciecne!
-- 📫 How to reach me ...
+- 📫 Please email me: pymdebaby@gmail.com
 
 <!---
 yuemingpang/yuemingpang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
